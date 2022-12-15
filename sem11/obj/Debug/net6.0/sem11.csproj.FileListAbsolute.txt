@@ -3,3 +3,13 @@ C:\Users\Дом\Desktop\C#seminar1\sem11\obj\Debug\net6.0\sem11.GeneratedMSBuild
 C:\Users\Дом\Desktop\C#seminar1\sem11\obj\Debug\net6.0\sem11.AssemblyInfoInputs.cache
 C:\Users\Дом\Desktop\C#seminar1\sem11\obj\Debug\net6.0\sem11.AssemblyInfo.cs
 C:\Users\Дом\Desktop\C#seminar1\sem11\obj\Debug\net6.0\sem11.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\C#seminar1\sem11\bin\Debug\net6.0\sem11.exe
+C:\Users\Дом\Desktop\C#seminar1\sem11\bin\Debug\net6.0\sem11.deps.json
+C:\Users\Дом\Desktop\C#seminar1\sem11\bin\Debug\net6.0\sem11.runtimeconfig.json
+C:\Users\Дом\Desktop\C#seminar1\sem11\bin\Debug\net6.0\sem11.dll
+C:\Users\Дом\Desktop\C#seminar1\sem11\bin\Debug\net6.0\sem11.pdb
+C:\Users\Дом\Desktop\C#seminar1\sem11\obj\Debug\net6.0\sem11.dll
+C:\Users\Дом\Desktop\C#seminar1\sem11\obj\Debug\net6.0\refint\sem11.dll
+C:\Users\Дом\Desktop\C#seminar1\sem11\obj\Debug\net6.0\sem11.pdb
+C:\Users\Дом\Desktop\C#seminar1\sem11\obj\Debug\net6.0\sem11.genruntimeconfig.cache
+C:\Users\Дом\Desktop\C#seminar1\sem11\obj\Debug\net6.0\ref\sem11.dll

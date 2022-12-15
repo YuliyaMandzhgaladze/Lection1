@@ -1,0 +1,15 @@
+C:\Users\Дом\Desktop\C#seminar1\Sem111dz\obj\Debug\net6.0\Sem111dz.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\C#seminar1\Sem111dz\obj\Debug\net6.0\Sem111dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Desktop\C#seminar1\Sem111dz\obj\Debug\net6.0\Sem111dz.AssemblyInfoInputs.cache
+C:\Users\Дом\Desktop\C#seminar1\Sem111dz\obj\Debug\net6.0\Sem111dz.AssemblyInfo.cs
+C:\Users\Дом\Desktop\C#seminar1\Sem111dz\obj\Debug\net6.0\Sem111dz.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\C#seminar1\Sem111dz\bin\Debug\net6.0\Sem111dz.exe
+C:\Users\Дом\Desktop\C#seminar1\Sem111dz\bin\Debug\net6.0\Sem111dz.deps.json
+C:\Users\Дом\Desktop\C#seminar1\Sem111dz\bin\Debug\net6.0\Sem111dz.runtimeconfig.json
+C:\Users\Дом\Desktop\C#seminar1\Sem111dz\bin\Debug\net6.0\Sem111dz.dll
+C:\Users\Дом\Desktop\C#seminar1\Sem111dz\bin\Debug\net6.0\Sem111dz.pdb
+C:\Users\Дом\Desktop\C#seminar1\Sem111dz\obj\Debug\net6.0\Sem111dz.dll
+C:\Users\Дом\Desktop\C#seminar1\Sem111dz\obj\Debug\net6.0\refint\Sem111dz.dll
+C:\Users\Дом\Desktop\C#seminar1\Sem111dz\obj\Debug\net6.0\Sem111dz.pdb
+C:\Users\Дом\Desktop\C#seminar1\Sem111dz\obj\Debug\net6.0\Sem111dz.genruntimeconfig.cache
+C:\Users\Дом\Desktop\C#seminar1\Sem111dz\obj\Debug\net6.0\ref\Sem111dz.dll
