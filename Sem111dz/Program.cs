@@ -3,9 +3,6 @@ int a = int.Parse(Console.ReadLine()!);
 Console.Write("введите второе число: ");
 int b = int.Parse(Console.ReadLine()!);
 if (a == b*b)
-{
-  Console.Write("Первое квадрат второго");
-}
+Console.Write("Первое число квадрат второго");
 else
-{ Console.WriteLine("Первое не квадрат второго");
-}
+Console.WriteLine("Первое число НЕ квадрат второго");
